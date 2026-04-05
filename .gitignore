@@ -8,6 +8,7 @@ dist/
 .vscode/
 Thumbs.db
 Desktop.ini
+image/
 
 # Temp files
 *.tmp
